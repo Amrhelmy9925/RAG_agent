@@ -1,0 +1,14 @@
+huggingface_hub==0.25.2
+
+# Core Libraries
+
+langgraph
+langchain-core
+langchain-community
+langchain-huggingface
+transformers
+
+# Tools & Utilities
+
+bm25-retriever  # Or your custom retriever package
+typing-extensions
